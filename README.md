@@ -16,7 +16,7 @@ Visit the website: [up-for-grabs.net](https://up-for-grabs.net/)
 
 The contents of the file are just some details about the project:
 
-```yaml
+```yaml fedff
 name: *project name*
 desc: *a brief description of the project*
 site: *home page or repository URL*
